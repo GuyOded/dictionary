@@ -1,0 +1,9 @@
+B
+beginning-1|starting|
+P
+peeped-1|glanced|
+pictures-1|drawings|
+R
+rabbit-1|hare|
+T
+tired-1|sleepy|
