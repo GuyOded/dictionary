@@ -35,7 +35,7 @@ static BOOLEAN try_open_files(int argc, char *argv[]);
  * @return True if found no errors  or false if stumbled into an error
  * 		   while trying to open files.
  */
-static BOOLEAN try_open_files(int argc, char *argv[])
+static BOOLEAN try_open_files(int argc, char *argv[]) // T: try_open_files ?? seems more like try_open_files_according_to_argc_and_argv_and_close_them_on_failure_print_usage...
 {
 	if(argc != 3)
 	{
